@@ -1,3 +1,5 @@
+# Blog and details of the project: https://csci599-lim-squad.github.io/clothesGAN.github.io/2017/11/27/Clothes-Style-Transfer-with-Cycle-GAN/
+
 ##Below is the README file originally from Van Huy
 
 
